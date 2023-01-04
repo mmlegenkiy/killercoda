@@ -1,5 +1,5 @@
 /assets
-# /code-actions
+/code-actions
 /code-snippets
 /foreground-background-scripts-multi-step-ide
 /foreground-background-scripts-multi-step
@@ -8,7 +8,7 @@
 /kubernetes-dashboard
 /learning-linux
 /network-traffic-kubernetes
-/network-traffic
+# /network-traffic
 /theia-ide-visual-editor
 /ubuntu-custom-content
 /ubuntu-simple
