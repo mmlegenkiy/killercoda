@@ -10,8 +10,8 @@
 /network-traffic-kubernetes
 /network-traffic
 /theia-ide-visual-editor
-# /ubuntu-custom-content
+/ubuntu-custom-content
 /ubuntu-simple
 /upload-assets
-/use-images
+# /use-images
 /verification
