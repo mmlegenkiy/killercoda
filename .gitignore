@@ -6,12 +6,12 @@
 /kubernetes-1node
 /kubernetes-2node-multi-step-verification
 /kubernetes-dashboard
-# /learning-linux
+/learning-linux
 /network-traffic-kubernetes
 /network-traffic
 /theia-ide-visual-editor
 /ubuntu-custom-content
-/ubuntu-simple
+# /ubuntu-simple
 /upload-assets
 /use-images
 /verification
