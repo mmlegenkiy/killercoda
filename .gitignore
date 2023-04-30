@@ -1,7 +1,7 @@
 /assets
 /code-actions
-# /code-snippets
-/foreground-background-scripts-multi-step-ide
+/code-snippets
+# /foreground-background-scripts-multi-step-ide
 /foreground-background-scripts-multi-step
 /kubernetes-1node
 /kubernetes-2node-multi-step-verification
