@@ -3,4 +3,4 @@
 
 <br>
 
-What an Intro! It even greets us in the terminal!
+Here we see that the foreground script waits for the background script to finish.
