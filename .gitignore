@@ -1,12 +1,12 @@
 /assets
-/code-actions
+# /code-actions
 /code-snippets
 /foreground-background-scripts-multi-step-ide
 /foreground-background-scripts-multi-step
 /kubernetes-1node
 /kubernetes-2node-multi-step-verification
 /kubernetes-dashboard
-# /learning-linux
+/learning-linux
 /network-traffic-kubernetes
 /network-traffic
 /theia-ide-visual-editor
