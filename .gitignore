@@ -8,9 +8,9 @@
 /kubernetes-dashboard
 /learning-linux
 /network-traffic-kubernetes
-/network-traffic
+# /network-traffic
 /theia-ide-visual-editor
-# /ubuntu-custom-content
+/ubuntu-custom-content
 /ubuntu-simple
 /upload-assets
 /use-images
