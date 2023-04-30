@@ -1,5 +1,5 @@
 killerkoda/assets
-killerkoda/code-actions
+# killerkoda/code-actions
 killerkoda/code-snippets
 killerkoda/foreground-background-scripts
 killerkoda/foreground-background-scripts-multi-step
@@ -15,5 +15,5 @@ killerkoda/theia-ide-visual-editor
 killerkoda/ubuntu-custom-content
 killerkoda/ubuntu-simple
 killerkoda/upload-assets
-# killerkoda/use-images
+killerkoda/use-images
 killerkoda/verification
