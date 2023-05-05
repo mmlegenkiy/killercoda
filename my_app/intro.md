@@ -4,3 +4,7 @@
 <br>
 
 Here we see that the foreground script waits for the background script to finish.
+
+### Display image
+
+![Scan results](./structure1.png)
