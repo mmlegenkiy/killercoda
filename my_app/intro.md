@@ -1,10 +1,8 @@
 
-> <strong>Note</strong>: logs of the *intro* background script can be found at `/var/log/killercoda`
+# Завдання 1
 
-<br>
+За допомогою команд pwd, ls, cd, touch, mkdir створіть у директорії /home/ubuntu директорію practice1 та всередині неї створіть систему файлів (виділено білим) та директорій (виділено синім), як показано на рисунку нижче, в командах використовуйте відносний шлях до файлів та директорій. Для переміщення по історії команд використовуйте стрілки вгору та вниз.
 
-Here we see that the foreground script waits for the background script to finish.
+### Структура файлів та директорій
 
-### Display image
-
-![Scan results](./structure1.png)
+![structure1](./structure1.png)
