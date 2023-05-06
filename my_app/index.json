@@ -16,6 +16,10 @@
       {
         "text": "step3.md",
         "foreground": "foreground3.sh"
+      },
+      {
+        "text": "step4.md",
+        "foreground": "foreground4.sh"
       }
     ]
   },
