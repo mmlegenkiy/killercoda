@@ -20,6 +20,10 @@
       {
         "text": "step4.md",
         "foreground": "foreground4.sh"
+      },
+      {
+        "text": "step5.md",
+        "foreground": "foreground5.sh"
       }
     ],
     "finish": {
