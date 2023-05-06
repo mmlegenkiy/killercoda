@@ -15,7 +15,7 @@
       },
       {
         "text": "step3.md",
-        "foreground": "background3.sh"
+        "foreground": "foreground3.sh"
       }
     ]
   },
