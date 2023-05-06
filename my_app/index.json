@@ -1,6 +1,6 @@
 {
-  "title": "Practice 1.1",
-  "description": "Some description",
+  "title": "Лабораторна робота №1",
+  "description": "Лабораторна робота з курсу 'Основи адміністрування UNIX систем' для студентів факультету РБЕКС ХНУ імені В.Н. Каразіна",
   "details": {
     "intro": {
       "text": "intro.md",
@@ -9,6 +9,9 @@
     "steps": [
       {
         "text": "step1.md"
+      }
+      {
+        "text": "step2.md"
       }
     ]
   },
