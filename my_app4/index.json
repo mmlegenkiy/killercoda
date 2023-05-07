@@ -1,0 +1,29 @@
+{
+  "title": "Лабораторна робота №4",
+  "description": "Лабораторна робота з курсу 'Основи адміністрування UNIX систем' для студентів факультету РБЕКС ХНУ імені В.Н. Каразіна",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "text": "step1.md"
+      },
+      {
+        "text": "step2.md"
+      },
+      {
+        "text": "step3.md"
+      },
+      {
+        "text": "step4.md"
+      },
+      {
+        "text": "step5.md"
+      }
+    ]
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
