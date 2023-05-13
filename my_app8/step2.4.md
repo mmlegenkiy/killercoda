@@ -1,27 +1,7 @@
-## Завдання 2.7
-     g) Створіть файл process1.c із наступним текстом: 
-```C++
-#include <unistd.h>
-#include <signal.h>
-#include <stdlib.h>
-#include <sys/wait.h>
-#include <stdio.h>
-
-int main() {
-   int pid;
-   int status, died;
-
-   pid=fork();
-   switch(pid) {
-   case -1: printf("can't fork\n");
-            exit(-1);
-   case 0 : printf("I'm the child of PID %d\n", getppid());
-            printf("My PID is %d\n", getpid());
-            exit(0);
-   default: sleep(30);
-            if (pid & 1)
-               kill(pid,SIGKILL);
-            died= wait(&status);
-  }
-}
-```
+## Завдання 2.3
+Створіть файл index.html в кореневому каталозі вашого сайту /var/www/your_domain.
+Внесіть до файлу наступне:
+<h1>It works!</h1>
+<p>This is the landing page of <strong>your_domain</strong>.</p>
+Відкрийте браузер та введіть в адресний рядок одного разу доменне ім’я вашого сервера, а іншого IP-адресу: http://server_domain та  http://192.168.0.109 . Що відображається на цих сторінках.
+Якщо отримаєте помилку AH00558, то додайте до файлу /etc/apache2/apache2.conf рядок ServerName 127.0.0.1. 
