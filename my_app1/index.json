@@ -8,22 +8,10 @@
     },
     "steps": [
       {
-        "text": "step1.md"
-      },
-      {
         "text": "step1.1.md"
       },
       {
         "text": "step1.2.md"
-      },
-      {
-        "text": "step1.3.md"
-      },
-      {
-        "text": "step1.4.md"
-      },
-      {
-        "text": "step1.5.md"
       },
       {
         "text": "step2.md"
