@@ -1,4 +1,5 @@
 #!/bin/bash
-unalias touch
-unalias mkdir
+unalias cd
+alias touch='echo "command touch is not allowed"'
+alias mkdir='echo "command mkdir is not allowed"'
 clear
