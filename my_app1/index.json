@@ -42,8 +42,11 @@
         "foreground": "foreground4.sh"
       },
       {
-        "text": "step5.md",
+        "text": "step5.1.md",
         "foreground": "foreground5.sh"
+      },
+      {
+        "text": "step5.2.md"
       }
     ],
     "finish": {
