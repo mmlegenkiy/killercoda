@@ -24,10 +24,16 @@
         "foreground": "foreground3.sh"
       },
       {
-        "text": "step4.md"
+        "text": "step4.1.md"
       },
       {
-        "text": "step5.md"
+        "text": "step4.2.md"
+      },
+      {
+        "text": "step5.1.md"
+      },
+            {
+        "text": "step5.2.md"
       }
     ]
   },
