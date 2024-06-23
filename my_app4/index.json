@@ -7,7 +7,22 @@
     },
     "steps": [
       {
-        "text": "step1.md"
+        "text": "step0.md"
+      },
+      {
+        "text": "step0.1.md"
+      },
+      {
+        "text": "step1.1.md"
+      },
+      {
+        "text": "step1.2.md"
+      },
+      {
+        "text": "step1.3.md"
+      },
+      {
+        "text": "step1.4.md"
       },
       {
         "text": "step2.md"
