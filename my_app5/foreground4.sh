@@ -1,6 +1,9 @@
 file=$HOME/poem
 if [ -f $file ]
 then
-	cp $file /home
-	cp $file /etc
+	cd
+	mkdir dir1	
+	cp $file dir1
+	mkdir dir1/dir2
+	cp $file dir1/dir2
 fi  
