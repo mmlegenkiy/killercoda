@@ -1,10 +1,15 @@
-file=$HOME/poem
-if [ -f $file ]
-then
-	cd
-	mkdir dir1	
-	cp $file dir1
-	mkdir dir1/dir2
-	cp $file dir1/dir2
-fi
+cd
+poemfile=$HOME/poem
+j=1
+for i in {1..9}
+do 
+	dd if=/dev/urandom bs=$RANDOM count=1 of=file$i;
+	if [ $(($RANDOM%2)) -eq 1 ]
+	then
+		mkdir dir$j
+		cd dir$j
+		cp $poemfile .
+		j=$(($j+1))
+	fi 
+done
 clear  
