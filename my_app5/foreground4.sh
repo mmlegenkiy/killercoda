@@ -6,4 +6,5 @@ then
 	cp $file dir1
 	mkdir dir1/dir2
 	cp $file dir1/dir2
-fi  
+fi
+clear  
