@@ -1,3 +1,5 @@
+#!/bin/bash
+
 cd
 poemfile=$HOME/poem
 j=1
